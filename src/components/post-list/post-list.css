@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+    border-bottom: 2px solid #414141;
+}
+
+.item:hover {
+    background-color: #dbdbdb;
+}
+
+.list-group {
+    background-color: #e8e7e5;
+}
